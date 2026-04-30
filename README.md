@@ -13,7 +13,7 @@ API desenvolvida em C# com .NET 9 e Entity Framework Core para simular financiam
 - ASP.NET Core Web API
 - Entity Framework Core
 - MySQL
-- Swagger (em breve)
+- Swagger
 
 ## Como executar
 
